@@ -1,2 +1,2 @@
 # atomic_water
-Make your water more interesting, with science.
+Make your water more interesting with the power of science.
