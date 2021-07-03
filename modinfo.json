@@ -4,7 +4,7 @@
     "ident": "atomic_water",
     "name": "atomic_water",
     "authors": [ "ERROR_CODE" ],
-    "description": "Make your water more interesting, with science.",
+    "description": "Make your water more interesting with the power of science.",
     "category": "items",
     "dependencies": [ "dda" ]
   }
