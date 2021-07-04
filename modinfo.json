@@ -1,8 +1,8 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "atomic_water",
-    "name": "atomic_water",
+    "ident": "isotopic_water",
+    "name": "isotopic_water",
     "authors": [ "ERROR_CODE" ],
     "description": "Make your water more interesting with the power of science.",
     "category": "items",
