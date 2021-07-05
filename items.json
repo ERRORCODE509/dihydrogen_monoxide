@@ -17,7 +17,7 @@
     "quench": 55,
     "healthy": -1,
     "ammo_data": { "ammo_type": "water" },
-    "flags": [ "EATEN_COLD" ],
+    "flags": [ "EATEN_COLD" ]
   },
   {
     "id": "semiheavy_water",
@@ -36,7 +36,7 @@
     "sealed": false,
     "quench": 53,
     "ammo_data": { "ammo_type": "water" },
-    "flags": [ "EATEN_COLD" ],
+    "flags": [ "EATEN_COLD" ]
   },
   {
     "id": "heavy_oxygen_water",
@@ -56,7 +56,7 @@
     "quench": 56,
     "healthy": -1,
     "ammo_data": { "ammo_type": "water" },
-    "flags": [ "EATEN_COLD" ],
+    "flags": [ "EATEN_COLD" ]
   },
   {
     "id": "tritiated_water",
@@ -76,6 +76,6 @@
     "quench": 61,
     "healthy": -3,
     "ammo_data": { "ammo_type": "water" },
-    "flags": [ "EATEN_COLD" ],
+    "flags": [ "EATEN_COLD" ]
   }
 ]
