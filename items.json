@@ -15,7 +15,7 @@
     "container": "bottle_plastic",
     "sealed": false,
     "quench": 55,
-    "healthy": -1,
+    "healthy": -2,
     "ammo_data": { "ammo_type": "water" },
     "flags": [ "EATEN_COLD" ]
   },
@@ -54,7 +54,7 @@
     "container": "bottle_plastic",
     "sealed": false,
     "quench": 56,
-    "healthy": -1,
+    "healthy": -2,
     "ammo_data": { "ammo_type": "water" },
     "flags": [ "EATEN_COLD" ]
   },
@@ -74,7 +74,7 @@
     "container": "bottle_plastic",
     "sealed": false,
     "quench": 61,
-    "healthy": -3,
+    "healthy": -6,
     "ammo_data": { "ammo_type": "water" },
     "flags": [ "EATEN_COLD" ]
   }
