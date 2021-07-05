@@ -23,7 +23,7 @@
     "autolearn": true,
     "batch_time_factors": [ 50, 1 ],
     "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
-    "components": [ [ [ "semi_heavy_water", 1 ] ] ]
+    "components": [ [ [ "semiheavy_water", 1 ] ] ]
   },
   {
     "type": "recipe",
