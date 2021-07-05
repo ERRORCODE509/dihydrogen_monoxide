@@ -9,7 +9,7 @@
     "time": "5 m",
     "autolearn": true,
     "batch_time_factors": [ 25, 1 ],
-    "tools": "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
+    "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
     "components": [ [ [ "water", 1 ], [ "water_clean", 1 ] ] ]
   },
   {
@@ -22,7 +22,7 @@
     "time": "5 m",
     "autolearn": true,
     "batch_time_factors": [ 50, 1 ],
-    "tools": "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
+    "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
     "components": [ [ [ "semi_heavy_water", 1 ] ] ]
   },
   {
@@ -35,7 +35,7 @@
     "time": "10 m",
     "autolearn": true,
     "batch_time_factors": [ 50, 1 ],
-    "tools": "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
+    "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
     "components": [ [ [ "heavy_water", 1 ] ] ]
   },
   {
@@ -48,7 +48,7 @@
     "time": "12 m",
     "autolearn": true,
     "batch_time_factors": [ 50, 1 ],
-    "tools": "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
+    "tools": [ [ [ "atomic_coffeepot", -1 ] ] ],
     "components": [ [ [ "water", 1 ], [ "water_clean", 1 ] ] ]
   }
 ]
